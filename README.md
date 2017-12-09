@@ -26,7 +26,7 @@ Use the `AlphaJumper` component. For example:
 ### AlphaJumper Component Properties
 | Property       | Type          | Default             |
 | :------------- |:------------- | :------------------ |
-| alphabet       | array         | ['A' ,'B' ,... 'Z'] |
+| alphabet       | array         | ['A', 'B', ..., 'Z']|
 | color          | string        | "white"             |
 | onTouch        | function      | noop                |
 | style          | object        | {}                  |
