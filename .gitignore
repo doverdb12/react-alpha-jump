@@ -1,4 +1,4 @@
 .babelrc
 .npmignore
-AlphaJumper.jsx
+index.js
 node_modules
