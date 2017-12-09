@@ -24,12 +24,11 @@ Use the `AlphaJumper` component. For example:
 ```
 ## Documentation
 ### AlphaJumper Component Properties
-| Property       | Type          | Default             | Description
-| :------------- |:------------- | :------------------ | :-------------
-| alphabet       | array         | ['A', 'B', ..., 'Z']| Defines the characters to show
-| color          | string        | "white"             | Determines the color of the characters
-| onTouch        | function      | noop                | Called when a character is touched.
-                                                         Receives character as param. 
-| style          | object        | {}                  | Overrides styles of alphabet list container
+| Property       | Type          | Default             | Description                                                      |
+| :------------- |:------------- | :------------------ | :-------------                                                   |
+| alphabet       | array         | ['A', 'B', ..., 'Z']| Defines the characters to show.                                  |
+| color          | string        | "white"             | Determines the color of the characters.                          |
+| onTouch        | function      | noop                | Called when a character is touched. Receives character as param. |                
+| style          | object        | {}                  | Overrides styles of alphabet list container.                     |
 
 
