@@ -19,7 +19,7 @@ Use the `AlphaJumper` component. For example:
     position: 'fixed',
     right: 7.5,
     top: 5,
-    width: 10
+    width: 10,
   }}
 />
 ```
