@@ -1,0 +1,5 @@
+.babelrc
+.npmignore
+AlphaJumper.jsx
+node_modules
+README.md
