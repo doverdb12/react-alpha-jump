@@ -1,4 +1,5 @@
 # react-alpha-jump
+[![NPM](https://nodei.co/npm/<package>.png?mini=true)](https://npmjs.org/package/react-alpha-jump)
 ## Getting Started
 Install `react-alpha-jump` using npm.
 ```
