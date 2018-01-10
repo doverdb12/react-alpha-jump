@@ -12,6 +12,10 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0"
   },
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/doverdb/react-alpha-jump.git"
+  },
   "scripts": {
     "babel": "babel --presets es2015 AlphaJumper.jsx -o index.js"
   }
