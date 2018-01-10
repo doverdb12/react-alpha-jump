@@ -1,6 +1,6 @@
 {
   "name": "react-alpha-jump",
-  "version": "0.1.4",
+  "version": "1.0.5",
   "dependencies": {
     "react": "^16.2.0"
   },
@@ -12,6 +12,12 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0"
   },
+  "keywords": [
+    "react",
+    "list",
+    "alphabet",
+    "jump"
+  ],
   "repository": { 
     "type" : "git",
     "url" : "https://github.com/doverdb/react-alpha-jump.git"
